@@ -1,4 +1,11 @@
+# ITI_FLUTTER
 # ITI_FLUTTER bottom sheet porject
 
+# Getting Started 
 
-![UI](https://github.com/user-attachments/assets/75c14c55-5a28-40ed-9869-f2e3f0fcb15e)
+
+This project is a starting point for a Flutter application.
+<img src="gif/UI.gif" style="width: 300px; border-radius: 15px;">
+
+
+
