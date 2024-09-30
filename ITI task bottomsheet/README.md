@@ -1,12 +1,15 @@
-# iti_task
+# ITI FLUTTER Project
+# bottomsheet Project 
 
-## UI
+
+
+
+# Getting started
+This project is a starting point for a Flutter application
 ![UI](GIFS/UI.gif)
 
 
 
-## UI in Action
-![UI in Action](GIFS/UI_in_action.gif)
 
 
 
